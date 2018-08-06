@@ -99,4 +99,4 @@ SCHEDULER_DISK_QUEUE = 'scrapy.squeues.PickleFifoDiskQueue'
 SCHEDULER_MEMORY_QUEUE = 'scrapy.squeues.FifoMemoryQueue'
 
 ## Log Level
-LOG_LEVEL='INFO'
+LOG_LEVEL='DEBUG'
