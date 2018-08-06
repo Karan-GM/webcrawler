@@ -3,3 +3,4 @@ crawler/spiders/pickle/*
 crawler/__pycache__/*
 .DS_Store
 .idea
+*.pyc
