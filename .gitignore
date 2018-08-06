@@ -1,0 +1,5 @@
+crawler/spiders/data/*
+crawler/spiders/pickle/*
+
+.DS_Store
+.idea
