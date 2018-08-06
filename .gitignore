@@ -1,6 +1,7 @@
 crawler/spiders/data/*
 crawler/spiders/pickle/*
 crawler/__pycache__/*
+crawler/spiders/__pycache__/*
 .DS_Store
 .idea
 *.pyc
