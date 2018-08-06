@@ -91,7 +91,7 @@ ITEM_PIPELINES = {
 
 ## Enable logging of duplicate requests
 DUPEFILTER_DEBUG = True
-CLOSESPIDER_PAGECOUNT = 10
+# CLOSESPIDER_PAGECOUNT = 10
 
 ## Enable FIFO Order in processing url's
 DEPTH_PRIORITY = 1
