@@ -141,5 +141,8 @@ I used [scrapy](https://scrapy.org/) framework in python to achieve the desired 
 6. Install the libraries from requirements file
 	  - pip install -r requirements.txt
 7. cd crawler/spiders
+8. Create data and pickle folders for output dump
+	  - mkdir data
+	  - mkdir pickle
 8. To start the program
     - scrapy crawl custom
